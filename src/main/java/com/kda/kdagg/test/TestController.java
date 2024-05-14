@@ -26,7 +26,6 @@ public class TestController {
 		m.setUsername("sejun");
 		System.out.println(TAG+"setter: "+m.getUsername());
 		return "lombok test 완료";
-		
 	}
 	
 	// 인터넷 브라우저 요청은 get 요청 밖에 할 수 없다
