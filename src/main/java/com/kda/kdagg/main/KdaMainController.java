@@ -1,6 +1,7 @@
 package com.kda.kdagg.main;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 
 
 // spring이 con.kda.kdagg 패키지 이하를 스캔해서 모든 파일을 메모리에 new 하는 것이 아님
@@ -8,6 +9,5 @@ import org.springframework.stereotype.Controller;
 @Controller 
 public class KdaMainController {
 	
-
 
 }
